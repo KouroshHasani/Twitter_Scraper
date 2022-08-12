@@ -1,2 +1,2 @@
-# Instagram_Scraper
-Export data from Twitter
+# Twitter_Scraper
+Export data from twitter
